@@ -1,0 +1,13 @@
+1:   Test case #7
+2:   Testing: simple row select
+3:   Testing: ChessBoardArray a4(4)
+4:   Testing: a4[0][0] = 5
+5:   Testing: a4[3][3] = 7
+6:      5   0   0   0
+7:      0   0   0   0
+8:      0   0   0   0
+9:      0   0   0   7
+10:   Testing: a4[4][0]
+11:   out_of_range exception is thrown
+12:   Testing: a4[4][1]
+13:   out_of_range exception is thrown

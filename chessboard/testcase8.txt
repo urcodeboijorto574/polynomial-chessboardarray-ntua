@@ -1,0 +1,19 @@
+1:   Test case #8
+2:   Testing: simple row select with const
+3:   Testing: const ChessBoardArray a5(5, 7)
+4:   Testing: cout << a5[7][7] << endl
+5:   0
+6:   Testing: cout << a5[11][11] << endl
+7:   0
+8:   Testing: cout << a5
+9:      0   0   0   0   0
+10:      0   0   0   0   0
+11:      0   0   0   0   0
+12:      0   0   0   0   0
+13:      0   0   0   0   0
+14:   Testing: a5[12][6]
+15:   out_of_range exception is thrown
+16:   Testing: a5[5][6]
+17:   out_of_range exception is thrown
+18:   Testing: a5[0][0]
+19:   out_of_range exception is thrown
